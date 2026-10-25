@@ -22,6 +22,7 @@ I wear different hats depending on the project — **Solidity protocol labs**, *
 - 📫 &nbsp; Reach me at [kianzarandi701@gmail.com](mailto:kianzarandi701@gmail.com) · Telegram [@Kian_asli](https://t.me/Kian_asli)
 - 📝 &nbsp; Product & freelance · Iran · [zyrax.ir](https://www.zyrax.ir)
 - ⚡ &nbsp; Defensive security labs — honeypot-deck, sentinel-grid, vaultguard
+- 🚀 &nbsp; **Oct 2026 upgrade wave** — CI + CHANGELOG + real features across TradeForge (batch liquidate / protocol pause), LoadForge, GateProxy, PulseHub, Lumen, Forge Desk, security labs, Vue/Node APIs, CS2 tooling, and browser games
 
 <br>
 
